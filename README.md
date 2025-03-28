@@ -49,9 +49,9 @@ A dynamic and user-friendly book library that fetches book data from FreeAPI.app
 
 ## Preview
 This is what it looks like
-![Quote Generator Screenshot](assets/screenshots/01.jpeg)
-![Quote Generator Screenshot](assets/screenshots/02.jpeg)
-![Quote Generator Screenshot](assets/screenshots/03.jpeg)
+![Book Library Screenshot](assets/screenshots/01.jpeg)
+![Book Library Screenshot](assets/screenshots/02.jpeg)
+![Book Library Screenshot](assets/screenshots/03.jpeg)
 
 ## Acknowledgement
 This project is part of an assignment from Cohort on Masterji. Special thanks to Hitesh sir, Piyush sir, and the entire team for their guidance and support. Excited to be part of this amazing learning journey!
