@@ -4,7 +4,7 @@ A dynamic and user-friendly book library that fetches book data from FreeAPI.app
 
 ## Table of Contents
 
-- [Book Library](#book-libraray)
+- [Book Library](#book-library)
   - [Table of Contents](#table-of-contents)
   - [Deployment](#deployment)
   - [Features](#features)
